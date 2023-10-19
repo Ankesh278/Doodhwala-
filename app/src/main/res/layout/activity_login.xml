@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/theme"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/user"
+        android:layout_marginTop="110dp"
+        android:layout_marginStart="120dp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:hint="@string/username"
+        android:textColorHint="@color/black"
+        android:background="@drawable/edittextstyle"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:paddingStart="40dp"
+        />
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:hint="@string/password"
+        android:textColorHint="@color/black"
+        android:background="@drawable/edittextstyle"
+        android:layout_gravity="center"
+        android:layout_marginTop="7dp"
+        android:paddingStart="40dp"
+        />
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="@string/loginbtn"
+        android:textStyle="bold"
+        android:background="@drawable/buttonstyle"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"/>
+    <TextView
+        android:id="@+id/alreadyhaveanaccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/alreadyhaveanaccount"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="50dp"
+        android:textColor="#3339AD"
+        android:textStyle="bold"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+        <ImageView
+            android:id="@+id/googlebtn"
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:src="@drawable/google2"
+            />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="@string/signwithgoogle"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+
+            android:orientation="vertical">
+
+
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_marginStart="85dp"
+            android:layout_height="50dp"
+            android:src="@drawable/faceboo3"
+            android:id="@+id/facebookbtn"
+            />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginStart="60dp"
+                android:text="@string/signwithfacebook"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

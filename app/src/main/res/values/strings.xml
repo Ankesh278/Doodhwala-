@@ -1,0 +1,443 @@
+<resources>
+    <string name="app_name">Doodhwala</string>
+
+    <string name="web_client_id">121430678540-8kuq1o66dpt46nhv181ltpporp1q7p75.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1337340613539030</string>
+    <string name="fb_login_protocol_scheme">fb1337340613539030</string>
+    <string name="facebook_client_token">1337340613539030|qEKViHexgGJguRur7IY7a9F6Qdo</string>
+
+    //login activity
+    <string name="username">Enter user name</string>
+    <string name="password">Enter password</string>
+    <string name="loginbtn">Login</string>
+    <string name="alreadyhaveanaccount">Already have an account?</string>
+    <string name="signwithgoogle">Signin with Google</string>
+    <string name="signwithfacebook">Signin with Facebook</string>
+
+    //signup activity
+    <string name="name">Enter User name</string>
+    <string name="email">Enter User Email</string>
+    <string name="userpassword">Enter User Password</string>
+    <string name="phoneno">Enter User Phone no</string>
+    <string name="Address">Enter User Address</string>
+    <string name="pincode">Enter User Pin Code</string>
+    <string name="signup">Sign up</string>
+
+
+    //home screen
+    <string name="toystore">ToyStore</string>
+    <string name="petstore">Pet Store</string>
+    <string name="beautystore">Beauty Store</string>
+    <string name="electronicstore">Electronic Store</string>
+    <string name="healthstore">Health Store</string>
+    <string name="stationarystore">Stationary Store</string>
+    <string name="Bookstore">Book Store</string>
+    <string name="giftstore">Gift Store</string>
+    <string name="heading">DOODHWALA</string>
+    <string name="categories">Shop by category</string>
+    <string name="Dairy">Dairy</string>
+    <string name="Bakery">Bakery</string>
+    <string name="Breakfast">Breakfast</string>
+    <string name="Fruits">Fruits</string>
+    <string name="Vegetables">Vegetables</string>
+    <string name="Grocery">Grocery</string>
+    <string name="Dryfruits">Dry Fruits</string>
+    <string name="personalcare">Personal Care</string>
+    <string name="pharmaandwellness">Pharma and Wellness</string>
+    <string name="Cleaningessentials">Cleaning Essentials</string>
+    <string name="attarice">Atta,Rice and Dal</string>
+    <string name="babycare">Baby Care</string>
+    <string name="saucesandspreads">Sauces &amp; Spreads</string>
+    <string name="organicandpremisum">Organic</string>
+    <string name="attariceanddaal">Atta, Rice &amp; Dal</string>
+    <string name="colddrinksandjuices">Drinks &amp; Juices</string>
+    <string name="bakreyandbiscuits">Bakery &amp; Biscuits</string>
+    <string name="shopbystore">Shop by Store</string>
+    <string name="brandspotlight">Brand Spotlight</string>
+
+
+    //dairyMenu
+
+    <string name="allcategories">All Categories</string>
+    <string name="hapur">Hapur</string>
+    <string name="rsfifty">Rs. 50/kg</string>
+    <string name="rsfourty">Rs. 40/kg</string>
+    <string name="rsonetwenty">Rs. 120/kg</string>
+    <string name="rsonefifty">Rs. 150/kg</string>
+    <string name="rsthirty">Rs. 30</string>
+    <string name="rsseventytwo">Rs. 72</string>
+    <string name="rsseventyfive">Rs. 75</string>
+    <string name="rsthirtytwo">Rs. 32</string>
+    <string name="rstwenty">Rs. 20</string>
+    <string name="sixhundred">600g</string>
+    <string name="fivehundred">500g</string>
+    <string name="Spongegourd">Sponge Gourd (Tori)</string>
+    <string name="zero">0</string>
+    <string name="cauliflower">Cauliflower-Medium (phool Gobhi)</string>
+    <string name="gettingharvested">Getting harvested:10-11am Today</string>
+    <string name="greenpeas">Green Peas (Matar)</string>
+    <string name="punjab">Punjab</string>
+    <string name="nashik">Nashik</string>
+    <string name="Onion">Onion (Pyaaz)</string>
+
+
+    //menuactivity
+
+    <string name="profile">Profile</string>
+    <string name="myaccount">My Account</string>
+    <string name="number">7007221530</string>
+    <string name="wallet">Wallet</string>
+    <string name="supports">Supports</string>
+    <string name="payments">Payments</string>
+    <string name="yourinformation">YOUR INFROMATION</string>
+    <string name="yourorders">Your orders</string>
+    <string name="Addressbook">Address Book</string>
+    <string name="otherinfromation">Other Infromation</string>
+    <string name="sharetheapp">Share the app</string>
+    <string name="aboutus">About Us</string>
+    <string name="logout">Log out</string>
+    <string name="getfeedingindia">Get Feeding India receipt</string>
+    <string name="rateusontheplaystore">Rate us on the Play Store</string>
+    <string name="notificationprefrences">Notification Prefrences</string>
+
+    //toystore activity
+
+    <string name="drunkstonedorstupidpartygaheading">Drunk Stoned or\nStupid Party Ga...</string>
+    <string name="drunkstonedorstupidpartygaquantity">1 pack</string>
+    <string name="talkflirtdare3infundrinkingheading">Talk, Flirt,Dare 3\nin 1 fun Drinking...</string>
+    <string name="talkflirtdare3infundrinkingquantity">1 set</string>
+
+    <string name="whatdoyoumemepartyheading">What do you\nmeme party Car...</string>
+    <string name="whatdoyoumemepartyquntity">1 pack</string>
+
+
+    <string name="nonsense4">Nonsense 4\n</string>
+    <string name="nonsense4quantity">1 set</string>
+
+    <string name="shopbyintrest">Shop by Inetrest</string>
+    <string name="cardgames">Card Games</string>
+    <string name="boardgames">Board Games</string>
+    <string name="scienceproject">Science Kits</string>
+    <string name="puzzzles">Puzzles</string>
+    <string name="lightingtoy">Lighting Toy</string>
+    <string name="learningtools">Learning Tools</string>
+    <string name="partygamesforadult">Party Games for adults</string>
+
+
+    <string name="toysandgames">Toys &amp; Games\nStore</string>
+    <string name="store">Store</string>
+    <string name="endlessfunwithawidevarietyof">Endless fun with a wide variety of\ntoys &amp; games fro kids</string>
+    <string name="toysandgamsfrokids">toys &amp; games for kids"</string>
+
+    <string name="learningandeducation">Learning Education</string>
+    <string name="Cardpuzzlesandboardgames">Card Games</string>
+    <string name="actiontoysNDTOYVEHICcles">Action game</string>
+    <string name="artandcraftkits">Art &amp; Craft Kits</string>
+    <string name="dollsandplaysets">Dolls &amp; Play Sets</string>
+    <string name="Toddlersandbabytoys">Toddlers &amp; Baby Toys</string>
+    <string name="add">Add</string>
+
+    //books store
+    <string name="wiseandotherwiseheading">Wise And\nOtherwise</string>
+    <string name="wiseandotherwise">192</string>
+    <string name="wiseotherwisereal"> <strike>250</strike></string>
+    <string name="Rs">\u20B9</string>
+    <string name="sudhamurthy">Sudha Murty</string>
+
+    <string name="howtheearthgotitsbeautyy">How The Earth\nGot Its Beauty</string>
+    <string name="howtheearthgotitsbeautyrealprice"> <strike>199</strike></string>
+    <string name="howtheearthgotitsbeautydeductprice">183</string>
+
+    <string name="thinkstraightheading">Think Straight\n</string>
+    <string name="dariusforoux">Darius Foroux</string>
+    <string name="thinkstraightrealprice"> <strike>199</strike></string>
+    <string name="thinkstraightdeductprice">157</string>
+
+    <string name="twelfthfailheading">Twelfth Fail</string>
+    <string name="dariusforouxwriter">Anurag Pathak,G...</string>
+    <string name="twelfthfailrealprice"> <strike>199</strike></string>
+    <string name="twelfthfaildeductprice">189</string>
+
+
+    <string name="lakmenailpaintheading">Lakme Nail Paint\nRemover</string>
+    <string name="quantitylakme">27 ml</string>
+    <string name="lakmenailpaintrealprice"> <strike>199</strike></string>
+
+    <string name="lakmeeyeconiccurlingheading">Lakme Eyeconic\nCurling Mascara...</string>
+    <string name="lakmeeyeconicquantity">9 ml</string>
+    <string name="lakmeeyeconicrealprice">250</string>
+    <string name="lakmeeyeconicdeductprice">192</string>
+
+    <string name="tulipcottonheading">Tulip Cotton\nPads</string>
+    <string name="tulipcottonquantity">1 pack (100 pieces)</string>
+    <string name="tulipcottonrealprice"> <strike>250</strike></string>
+    <string name="tulipcottondeductedprice">192</string>
+
+    <string name="maybellineheading">Maybelline New\nYork Colossal k...</string>
+    <string name="maybellinequantity">0.35 g</string>
+    <string name="maybellinerealprice"> <strike>250</strike></string>
+    <string name="maybellinedeductedprice">192</string>
+
+    //electronics
+
+    <string name="Electronics">Electronics</string>
+    <string name="homeappliances">Home Appliances</string>
+    <string name="Audiosmart">Audio &amp; Smart</string>
+    <string name="personal">Personal</string>
+    <string name="Chargingcableandacces">Charging Cables &amp; accessories</string>
+    <string name="Computeraccesories">Computer &amp; Accessories</string>
+    <string name="decorativelights">Decorative &amp; Lights</string>
+
+    <string name="wonderchefnutriheading">Wonderchef\nNutri-Cup Porta...</string>
+    <string name="wonderchefquantity">1 unit</string>
+    <string name="wonderchefrealprice"> <strike>2500</strike></string>
+    <string name="wonderchefdeductedprice">1399</string>
+
+    <string name="vega3in1hairheading">Vega 3-In-1 Hair\nStyler (VHSCC-01)</string>
+    <string name="vega3in1hairquantity">1 unit</string>
+    <string name="vega3in1hairrealprice"> <strike>1999</strike></string>
+    <string name="vega3in1hairdeductedprice">1299</string>
+
+    <string name="havellesbrushhairstraightnerheading">Havells Brush\nHair Straightne..</string>
+    <string name="havellesbrushhairstraightnerquantity">1 unit</string>
+    <string name="havellesbrushhairstraightnerrealprice"> <strike>3695</strike></string>
+    <string name="havellesbrushhairstraightnerdeductedprice">2399</string>
+
+    <string name="nurepublicpartyheading">Nu Republic Party\nBox 16 Bluetoot...</string>
+    <string name="nurepublicpartyquantity">1 unit</string>
+    <string name="nurepublicpartyrealprice"> <strike>3999</strike></string>
+    <string name="nurepublicpartydeductedprice">949</string>
+
+
+    //gifting store
+
+    <string name="giftingstore">Gifting Store</string>
+    <string name="findtheperfectgift">Finf the perfect gift, every time!</string>
+    <string name="homeandliving">Home &amp; Living</string>
+    <string name="jwelleryandaccessories">Jewellery &amp; Accessories</string>
+    <string name="toysandgamess">Toys &amp; Games</string>
+    <string name="books">Books</string>
+    <string name="flowersandplants">Flowers &amp; Plants</string>
+
+    <string name="bellavitaorganicluxuryheading">Bella Vita Organic\nLuxury Perfume...</string>
+    <string name="bellavitaorganicluxuryquantity">1 set (4 * 20 ml)</string>
+    <string name="bellavitaorganicluxuryrealprice"> <strike>849</strike></string>
+    <string name="bellavitaorganicluxurydeductedprice">565</string>
+
+    <string name="pigeonhotkettleheading">Pigeon Hot\nElectric Kettle(1..</string>
+    <string name="pigeonhotkettlequantity">1 unit</string>
+    <string name="pigeonhotkettlerealprice"> <strike>1245</strike></string>
+    <string name="pigeonhotkettledeductedprice">549</string>
+
+    <string name="orientelectricfabristyleheading">Orient Electric\nfabristyle Dry Ir...</string>
+    <string name="orientelectricfabristylequantity">1 unit</string>
+    <string name="orientelectricfabristylerealprice"> <strike>1140</strike></string>
+    <string name="orientelectricfabristyledeductedprice">499</string>
+
+    <string name="prestigeelectrickettleheading">Prestige Electric\nKettle (Silver, 15...</string>
+    <string name="prestigeelectrickettlequantity">1 unit</string>
+    <string name="prestigeelectrickettlerealprice"> <strike>1445</strike></string>
+    <string name="prestigeelectrickettledeductedprice">749</string>
+
+
+    //Toys store
+
+    <string name="centytoysinnovoheading">Centy Toys\nInnovo -Police...</string>
+    <string name="centytoysinnovoquantity">1 unit</string>
+    <string name="centytoysinnovorealprice"> <strike>346</strike></string>
+    <string name="centytoysinnovodeductedprice">240</string>
+
+    <string name="centytoyssportsechotoyheading">Centy Toys\nSports Echo Toy</string>
+    <string name="centytoyssportsechotoyquantity">1 unit</string>
+    <string name="centytoyssportsechotoyrealprice"><strike>346</strike></string>
+    <string name="centytoyssportsechotoydeductedprice">240</string>
+
+    <string name="floorbusheading">Centy Toys Low\nFloor Bus toy V...</string>
+    <string name="floorbusheadingquantity">1 unit</string>
+    <string name="floorbusrealprice"><strike>450</strike></string>
+    <string name="floorbusdeductedprice">338</string>
+
+    <string name="brilleocartoyheading">Centy Toys\nBrilleo car Toy...</string>
+    <string name="brilleocartoyquantity">1 unit</string>
+    <string name="brilleocartoyrealprice"><strike>360</strike></string>
+    <string name="brilleocartoydeductedprice">270</string>
+
+    <string name="thebestoftoyvehicles">The best of Toy Vehicles</string>
+
+    //pet menu store
+    <string name="pedigreedogstarterheading">Pedigree Dog\nStarter Kit (com...</string>
+    <string name="pedigreedogstarterquantity">1 pack (1360 g)</string>
+    <string name="pedigreedogstarterrealprice"><strike>750</strike></string>
+    <string name="pedigreedogstarterdeductedprice">600</string>
+
+    <string name="pedigreepuppyheading">Pedigree Puppy\nStarter Kit(com..</string>
+    <string name="pedigreepuppyquantity">1 pack (1360 g)</string>
+    <string name="pedigreepuppyrealprice"><strike>750</strike></string>
+    <string name="pedigreepuppydeductedprice">600</string>
+
+    <string name="whiskasadultheading">Whiskas Adult\nWet Cat Food -C...</string>
+    <string name="whiskasadultquantity">12 * 85 g</string>
+    <string name="whiskasadultrealprice"><strike>600</strike></string>
+    <string name="whiskasadultdeductedprice">533</string>
+
+
+    <string name="catsonheading">Catson 100%\nNatural Clumpin...</string>
+    <string name="catsunquantity">4.2 kg</string>
+    <string name="catsunrealprice"><strike>720</strike></string>
+    <string name="catsundeductedrice">608</string>
+    <string name="petaccessories">Pet Accessories\n store</string>
+    <string name="thebestforyourfunnyfriend">The best for your funny friend</string>
+    <string name="dogfood">Dog Food</string>
+    <string name="Catfood">Cat Food</string>
+    <string name="pettreats">Pet Treats</string>
+    <string name="pettoysandaccessories">Pet Toys &amp; accessories</string>
+    <string name="groomingneeds">Grooming Needs pets</string>
+    <string name="supplementsandnourishment">Supplements &amp; Nourishments</string>
+    <string name="pawsomediscounts">Pawsome discounts</string>
+
+
+    //health store
+    <string name="muscleblaze200">MuscleBlaze 200\nxtreme Pre Wor...</string>
+    <string name="muscleblazequantity">100 g</string>
+    <string name="muscleblazerealprice"><strike>749</strike></string>
+    <string name="muscleblazeredeductedprice">549</string>
+
+    <string name="himalayangeneralwellnessheading">Himalayan General\nWellness Ashwa...</string>
+    <string name="himalayangeneralwellnessquantity">60 tablets</string>
+    <string name="himalayangeneralwellnessrealprice"><strike>220</strike></string>
+    <string name="himalayangeneralwellnessdeductedprice">194</string>
+
+    <string name="healthhkheading">Health HK\nVitals Multivita...</string>
+    <string name="healthhkquantity">1 pack (6-capsules...</string>
+    <string name="healthhkrealprice"><strike>998</strike></string>
+    <string name="healthhkdeductedprice">719</string>
+
+    <string name="dabur100ayurvedicheading">Dabur 100%\nAyurvedic Immu...</string>
+    <string name="dabur100ayurvedicquantity">30 ml</string>
+    <string name="dabur100ayurvedicrealprice"><strike>195</strike></string>
+    <string name="dabur100ayurvedicdeductedprice">117</string>
+
+    <string name="healthstoree">Health Store</string>
+    <string name="dontbreakyourstrideget">Dont break your stride - get your workout\nessentials delivered in minutes</string>
+    <string name="prepostworkout">Pre Post Workout</string>
+    <string name="proteinsoptions">Proteins Options</string>
+    <string name="healthysnacking">Healthy Snacking</string>
+    <string name="Vitaminsanddauly">Vitamins and Dauly</string>
+
+
+    //Stationary Store
+    <string name="stationarystoree">stationery</string>
+    <string name="unit1">1 unit</string>
+    <string name="onedestinationforoffice">One destination for office and schools needs</string>
+    <string name="pencilsandpens">Pencils and Pens</string>
+    <string name="notebooks">Notebooks</string>
+    <string name="Schoolsupplies">School Supplies</string>
+    <string name="officeessential">Office Essential</string>
+    <string name="stationaerybasics">Stationery Basics</string>
+    <string name="colouringkit">Colouring Kits</string>
+
+    <string name="fevikwikgelonedropinstantheading">Fevikwik One\nDrop Instant ad...</string>
+    <string name="fevikwikgelonedropinstantquantity">3 g</string>
+    <string name="fevikwikgelonedropinstantrealprice"><strike>30</strike></string>
+    <string name="fevikwikgelonedropinstantdeductedprice">29</string>
+
+    <string name="classmatesinglelinenotebookheading">Classmate Single\nLine Notebook -...</string>
+    <string name="classmatesinglelinenotebookquantity">1 unit</string>
+    <string name="classmatesinglelinenotebookrealprice">60</string>
+
+    <string name="fevikwikonedropinstantheading">Fevikwik Gel One\nDrop Instant Ad..</string>
+    <string name="fevikwikonedropinstantquantity">1 pieces(3 g)</string>
+    <string name="fevikwikonedropinstantrealprice"><strike>30</strike></string>
+    <string name="fevikwikonedropinstantdeductedprice">29</string>
+
+    <string name="classmateunruledspiralheading">Classmate\nUnruled Spiral N...</string>
+    <string name="classmateunruledspiralquantity">1 pieces</string>
+    <string name="classmateunruledspiralrealprice"><strike>145</strike></string>
+    <string name="classmateunruledspiraldeductedprice">138</string>
+
+
+    //Beauty Store
+    <string name="beautyStore">Beauty Store</string>
+    <string name="instantglamwithtop">Instant glam with top beauty brands</string>
+    <string name="lipcare">Lip care</string>
+    <string name="eyemakeup">Eye makeup</string>
+    <string name="facemakeup">Face makeup</string>
+    <string name="Nailspaints">Nails Paints</string>
+    <string name="haircarecolour">Hair colour</string>
+    <string name="hairstyling">Hair Styling</string>
+    <string name="Bathandbody">Bath &amp; Body</string>
+    <string name="giftssets">Gift sets</string>
+    <string name="Cleansersandtoners">Toners</string>
+    <string name="beautybestsellers">Beauty Bestsellers</string>
+
+
+    //Books store
+
+    <string name="bookstore">Book Store</string>
+    <string name="freshpagesendlesspossibilities">Fresh pages,endless possibilities</string>
+    <string name="booksdeliveredinminutes">Books delivered in minutes</string>
+    <string name="fiction">Fiction</string>
+    <string name="nonfiction">Non-Fiction</string>
+    <string name="Childrensbooks">Childrens Books</string>
+    <string name="mangaandgraphicnovels">Manga amp; graphic Novels</string>
+    <string name="biographicandmemories">Biographies and Memories</string>
+    <string name="boxsets">Box Sets</string>
+    <string name="bestsellers">Bestsellers</string>
+
+
+    //menu listing
+
+    <string name="centytoys">Centy Toys\nInnovo - Poloice</string>
+
+    //offer
+    <string name="offer36">36% Off</string>
+
+
+    //prouduct details
+
+    <string name="seeallmotherdairyproducts">See All Mother Dairy Products</string>
+    <string name="motherdairyclassiccurd">Mother Dairy Classic Curd</string>
+    <string name="seventytwo">72</string>
+    <string name="onekg">1 kg</string>
+    <string name="selectquantity">Select the Quantity</string>
+    <string name="similarproduct">Similar Products</string>
+    <string name="epigamiaalmondmilkunsweetened">Epigamia Almond\nMilk Unsweetene...</string>
+    <string name="motherdairyfullcreamfresh">Mother Dairy Full\nCream Fresh Milk</string>
+
+    <string name="threetwentyfive"><strike>325</strike></string>
+    <string name="rscross"><strike>\u20B9</strike></string>
+    <string name="twotwentyeight">228</string>
+
+    <string name="checkout">Checkout</string>
+    <string name="totalsavings">Your total savings</string>
+    <string name="twentyseven">27</string>
+    <string name="deliveryintenminutes">Delivery in 10 minutes</string>
+    <string name="shipmentofoneitem">Shipment of 1 item</string>
+    <string name="packoftwoitem">Onion (Pack of 2)</string>
+    <string name="twointoone">2 * 1 kg</string>
+    <string name="nintyseven">97</string>
+    <string name="one">1</string>
+    <string name="beforeyourcheckout">Before you checkout</string>
+    <string name="freedelivery">FREE DELIVERY</string>
+    <string name="additemworthoftwo">Add items worth rs2 more</string>
+    <string name="seeallcoupons">See all coupons</string>
+    <string name="billdetails">Bill details</string>
+    <string name="subtotal">Sub total</string>
+    <string name="savedrstwenyseven">Saved \u20B927</string>
+    <string name="deliverycharge">Delivery charge</string>
+    <string name="grandtotal">Grand total</string>
+    <string name="yourtotalsaving">Your total savings</string>
+    <string name="chooseaddressatnextstep">Choose address at next step</string>
+
+    <string name="allyourelectronicsneedatoneplace">All your electronic needs\nat one place!</string>
+
+    <string name="selectdeliverylocation">Select delivery location</string>
+    <string name="plus">+</string>
+    <string name="addnewaddress">Add new address</string>
+    <string name="getyoursavedaddressesinasingleclick">Get you saved addresses in a single\nclick</string>
+    <string name="importaddressfromzomato">Import address from Zomato</string>
+    <string name="Import">Import</string>
+    <string name="addaddress">Add address</string>
+
+
+</resources>

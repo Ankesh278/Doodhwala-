@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3339AD</color>
+
+    <color name="lightgreen">#FD0F9519</color>
+    <color name="grey">#D3D2D6</color>
+    <color name="grey2">#EEEFEE</color>
+    <color name="red">#F6231C</color>
+    <color name="gray">#6E6B6B</color>
+
+
+    //home screen
+
+    <color name="toystore">#6E70ED</color>
+    <color name="petstore">#88660E</color>
+    <color name="beautystore">#E65480</color>
+    <color name="electronicstore">#1762CC</color>
+    <color name="healthstore">#86EC7A</color>
+    <color name="stationarystationary">#B2D816</color>
+    <color name="Bookstore">#184FB3</color>
+    <color name="Giftstore">#F2CD2424</color>
+
+
+    <color name="lightgreenitembg">#BFA8EAA4</color>
+    <color name="violet">#7177EF</color>
+
+    <color name="offerbgcolour">#FA5076DF</color>
+
+    <color name="productdetailsaddbtncolour">#EF0561</color>
+
+
+
+</resources>
